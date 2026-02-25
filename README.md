@@ -1,2 +1,0 @@
-# AppleSoft-Basic
-AppleSoft Basic
