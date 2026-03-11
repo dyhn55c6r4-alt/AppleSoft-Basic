@@ -1,1 +1,0 @@
-xprotect --scan Apple.FASM
